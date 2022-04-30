@@ -1,0 +1,12 @@
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\Entidades\obj\Debug\net5.0\Entidades.pdb

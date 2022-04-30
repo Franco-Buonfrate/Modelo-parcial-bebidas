@@ -1,0 +1,52 @@
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.csproj.AssemblyReference.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.FrmAgua.resources
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.FrmBar.resources
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.FrmBarInicio.resources
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.FrmBotella.resources
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.FrmCerveza.resources
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.FrmPrincipal.resources
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.csproj.GenerateResource.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.AssemblyInfoInputs.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.AssemblyInfo.cs
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\WinFormsAppBar\bin\Debug\net5.0-windows\WinFormsAppBar.exe
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\WinFormsAppBar\bin\Debug\net5.0-windows\WinFormsAppBar.deps.json
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\WinFormsAppBar\bin\Debug\net5.0-windows\WinFormsAppBar.runtimeconfig.json
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\WinFormsAppBar\bin\Debug\net5.0-windows\WinFormsAppBar.runtimeconfig.dev.json
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\WinFormsAppBar\bin\Debug\net5.0-windows\WinFormsAppBar.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\WinFormsAppBar\bin\Debug\net5.0-windows\ref\WinFormsAppBar.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\WinFormsAppBar\bin\Debug\net5.0-windows\WinFormsAppBar.pdb
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\WinFormsAppBar\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\WinFormsAppBar\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.csproj.CopyComplete
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\ref\WinFormsAppBar.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.pdb
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.genruntimeconfig.cache
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.FrmAgua.resources
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.FrmBar.resources
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.FrmBarInicio.resources
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.FrmBotella.resources
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.FrmCerveza.resources
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.FrmPrincipal.resources
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.AssemblyInfo.cs
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.dll
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\ref\WinFormsAppBar.dll
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.pdb
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\WinFormsAppBar\bin\Debug\net5.0-windows\WinFormsAppBar.exe
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\WinFormsAppBar\bin\Debug\net5.0-windows\WinFormsAppBar.deps.json
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\WinFormsAppBar\bin\Debug\net5.0-windows\WinFormsAppBar.runtimeconfig.json
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\WinFormsAppBar\bin\Debug\net5.0-windows\WinFormsAppBar.runtimeconfig.dev.json
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\WinFormsAppBar\bin\Debug\net5.0-windows\WinFormsAppBar.dll
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\WinFormsAppBar\bin\Debug\net5.0-windows\ref\WinFormsAppBar.dll
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\WinFormsAppBar\bin\Debug\net5.0-windows\WinFormsAppBar.pdb
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\WinFormsAppBar\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\WinFormsAppBar\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.csproj.CopyComplete
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\WinFormsAppBar\obj\Debug\net5.0-windows\WinFormsAppBar.genruntimeconfig.cache

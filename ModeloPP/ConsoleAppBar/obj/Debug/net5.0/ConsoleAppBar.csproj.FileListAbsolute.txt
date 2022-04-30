@@ -1,0 +1,38 @@
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\ConsoleAppBar\bin\Debug\net5.0\ConsoleAppBar.exe
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\ConsoleAppBar\bin\Debug\net5.0\ConsoleAppBar.deps.json
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\ConsoleAppBar\bin\Debug\net5.0\ConsoleAppBar.runtimeconfig.json
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\ConsoleAppBar\bin\Debug\net5.0\ConsoleAppBar.runtimeconfig.dev.json
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\ConsoleAppBar\bin\Debug\net5.0\ConsoleAppBar.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\ConsoleAppBar\bin\Debug\net5.0\ref\ConsoleAppBar.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\ConsoleAppBar\bin\Debug\net5.0\ConsoleAppBar.pdb
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\ConsoleAppBar\obj\Debug\net5.0\ConsoleAppBar.csproj.AssemblyReference.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\ConsoleAppBar\obj\Debug\net5.0\ConsoleAppBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\ConsoleAppBar\obj\Debug\net5.0\ConsoleAppBar.AssemblyInfoInputs.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\ConsoleAppBar\obj\Debug\net5.0\ConsoleAppBar.AssemblyInfo.cs
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\ConsoleAppBar\obj\Debug\net5.0\ConsoleAppBar.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\ConsoleAppBar\obj\Debug\net5.0\ConsoleAppBar.csproj.CopyComplete
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\ConsoleAppBar\obj\Debug\net5.0\ConsoleAppBar.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\ConsoleAppBar\obj\Debug\net5.0\ref\ConsoleAppBar.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\ConsoleAppBar\obj\Debug\net5.0\ConsoleAppBar.pdb
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\ConsoleAppBar\obj\Debug\net5.0\ConsoleAppBar.genruntimeconfig.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\ConsoleAppBar\bin\Debug\net5.0\Entidades.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\Modelo_PP\ModeloPP\ConsoleAppBar\bin\Debug\net5.0\Entidades.pdb
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\ConsoleAppBar\obj\Debug\net5.0\ConsoleAppBar.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\ConsoleAppBar\obj\Debug\net5.0\ConsoleAppBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\ConsoleAppBar\obj\Debug\net5.0\ConsoleAppBar.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\ConsoleAppBar\obj\Debug\net5.0\ConsoleAppBar.AssemblyInfo.cs
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\ConsoleAppBar\obj\Debug\net5.0\ConsoleAppBar.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\ConsoleAppBar\obj\Debug\net5.0\ConsoleAppBar.dll
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\ConsoleAppBar\obj\Debug\net5.0\ref\ConsoleAppBar.dll
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\ConsoleAppBar\obj\Debug\net5.0\ConsoleAppBar.pdb
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\ConsoleAppBar\bin\Debug\net5.0\ConsoleAppBar.exe
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\ConsoleAppBar\bin\Debug\net5.0\ConsoleAppBar.deps.json
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\ConsoleAppBar\bin\Debug\net5.0\ConsoleAppBar.runtimeconfig.json
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\ConsoleAppBar\bin\Debug\net5.0\ConsoleAppBar.runtimeconfig.dev.json
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\ConsoleAppBar\bin\Debug\net5.0\ConsoleAppBar.dll
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\ConsoleAppBar\bin\Debug\net5.0\ref\ConsoleAppBar.dll
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\ConsoleAppBar\bin\Debug\net5.0\ConsoleAppBar.pdb
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\ConsoleAppBar\bin\Debug\net5.0\Entidades.dll
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\ConsoleAppBar\bin\Debug\net5.0\Entidades.pdb
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\ConsoleAppBar\obj\Debug\net5.0\ConsoleAppBar.csproj.CopyComplete
+C:\Users\franc\source\repos\Modelo bebidas\Modelo_PP_alumnos\ModeloPP\ConsoleAppBar\obj\Debug\net5.0\ConsoleAppBar.genruntimeconfig.cache
